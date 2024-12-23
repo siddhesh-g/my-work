@@ -12,5 +12,5 @@ class Password:
             print(content)
         else:
             print('enter again')
-passw=Password('siddhesh','siddhesh1103')
+passw=Password('siddhesh','sid123')
 passw.setpassword(str(input('enter your username: ')),str(input('enter password: ')))
